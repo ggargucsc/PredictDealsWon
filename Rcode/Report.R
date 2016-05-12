@@ -1,5 +1,5 @@
 ```{r}
-setwd('~/Desktop/case study/baseCRM/')
+setwd('~/Desktop/case study')
 
 library('xlsx')
 library('ggplot2')
