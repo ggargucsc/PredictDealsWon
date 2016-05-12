@@ -1,4 +1,4 @@
-setwd('~/Desktop/case study/baseCRM/')
+setwd('~/Desktop/case study')
 
 ########### FUNCTIONS ##############################################################
 
